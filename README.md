@@ -9,3 +9,9 @@
 | ![Project 3 Thumbnail](link_to_image_3) | ![Project 4 Thumbnail](link_to_image_4) |
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 3**<br>Short description for project 3 | **Project 4**<br>Short description for project 4 |
+
+## Additional Resources
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
+
+Click the thumbnail above to watch the video on YouTube: **"Title of the Video"**.
