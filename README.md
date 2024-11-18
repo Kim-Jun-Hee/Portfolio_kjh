@@ -2,7 +2,7 @@
 
 ## Projects Overview
 
-| ![SQL 포트폴리오](portfolio1.png) | ![파이썬 데이터 분석 포트폴리오](portfolio2.png) |
+| ![SQL 포트폴리오](portfoilo1.png) | ![파이썬 데이터 분석 포트폴리오](portfoilo2.png) |
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 1**<br>Short description for project 1 | **Project 2**<br>Short description for project 2 |
 
