@@ -15,3 +15,7 @@
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
 
 Click the thumbnail above to watch the video on YouTube: **"Title of the Video"**.
+
+## Certifications
+
+![국가기술자격증](자격증1.png)
