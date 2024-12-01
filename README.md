@@ -13,6 +13,7 @@
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 1**<br> 택배 물류량과 사회적 요인 간의 관계 분석 | **Project 2**<br>스낵시장의 트랜드와 소비자 요구 |
 
+
 ## Additional Resources
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
