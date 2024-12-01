@@ -1,5 +1,18 @@
 # Portfolio Projects
 
+<style>
+  a {
+    text-decoration: none; /* 링크 밑줄 제거 */
+    color: white; /* 기본 링크 색상을 흰색으로 */
+  }
+  a:visited {
+    color: white; /* 방문한 링크도 흰색으로 */
+  }
+  a:hover {
+    color: #f0f0f0; /* 마우스 오버 시 약간 더 밝은 흰색 */
+  }
+</style>
+
 <table>
   <tr>
     <td>
