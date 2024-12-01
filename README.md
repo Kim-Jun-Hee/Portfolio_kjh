@@ -14,6 +14,14 @@
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 3**<br>Short description for project 3 | **Project 4**<br>Short description for project 4 |
 
+| <img src="portfoilo1.png" alt="SQL 포트폴리오" style="width: 200px;"> | <img src="portfoilo2.png" alt="파이썬 데이터 분석 포트폴리오" style="width: 200px;"> |
+|:---------------------------------------:|:---------------------------------------:|
+| **Project 1**<br> 택배 물류량과 사회적 요인 간의 관계 분석 | **Project 2**<br>스낵시장의 트렌드와 소비자 요구 |
+
+| <img src="portfoilo2.png" alt="파이썬 딥러닝 포트폴리오" style="width: 200px;"> |
+|:---------------------------------------:|
+| **Project 3**<br>Short description for project 3 |
+
 ## Additional Resources
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
