@@ -10,6 +10,10 @@
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 3**<br>Short description for project 3 | **Project 4**<br>Short description for project 4 |
 
+| [![수자원 공모전 포트폴리오](portfoilo4.png)](수자원공모전포트폴리오.pdf) | [![세종시 공모전 포트폴리오](portfoilo5.png)](세종시공모전포트폴리오.pdf) |
+|:---------------------------------------:|:---------------------------------------:|
+| **Project 3**<br>Short description for project 3 | **Project 4**<br>Short description for project 4 |
+
 ## Additional Resources
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
