@@ -1,43 +1,28 @@
 # Portfolio Projects
-
-<style>
-  a {
-    text-decoration: none; /* 링크 밑줄 제거 */
-    color: white; /* 기본 링크 색상을 흰색으로 */
-  }
-  a:visited {
-    color: white; /* 방문한 링크도 흰색으로 */
-  }
-  a:hover {
-    color: #f0f0f0; /* 마우스 오버 시 약간 더 밝은 흰색 */
-  }
-</style>
-
 <table>
   <tr>
     <td>
-      <a href="SQL포트폴리오.pdf">
+      <a href="SQL포트폴리오.pdf" style="color: white; text-decoration: none;">
         <img src="portfoilo1.png" style="width:600px;" alt="SQL 포트폴리오">
       </a>
-      <br><b>Project 1</b><br>택배 물류량과 사회적 요인 간의 관계 분석
+      <br><b style="color: white;">Project 1</b><br><span style="color: white;">택배 물류량과 사회적 요인 간의 관계 분석</span>
     </td>
     <td>
-      <a href="파이썬포트폴리오.pdf">
+      <a href="파이썬포트폴리오.pdf" style="color: white; text-decoration: none;">
         <img src="portfoilo2.png" style="width:600px;" alt="파이썬 데이터 분석 포트폴리오">
       </a>
-      <br><b>Project 2</b><br>스낵시장의 트렌드와 소비자 요구
+      <br><b style="color: white;">Project 2</b><br><span style="color: white;">스낵시장의 트렌드와 소비자 요구</span>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="파이썬딥러닝포트폴리오.pdf">
+      <a href="파이썬딥러닝포트폴리오.pdf" style="color: white; text-decoration: none;">
         <img src="portfoilo2.png" style="width:600px;" alt="파이썬 딥러닝 포트폴리오">
       </a>
-      <br><b>Project 3</b><br>Short description for project 3
+      <br><b style="color: white;">Project 3</b><br><span style="color: white;">Short description for project 3</span>
     </td>
   </tr>
 </table>
-
 
 ## Additional Resources
 
