@@ -14,13 +14,31 @@
 |:---------------------------------------:|:---------------------------------------:|
 | **Project 3**<br>Short description for project 3 | **Project 4**<br>Short description for project 4 |
 
-| <img src="portfoilo1.png" alt="SQL 포트폴리오" style="width: 200px;"> | <img src="portfoilo2.png" alt="파이썬 데이터 분석 포트폴리오" style="width: 200px;"> |
-|:---------------------------------------:|:---------------------------------------:|
-| **Project 1**<br> 택배 물류량과 사회적 요인 간의 관계 분석 | **Project 2**<br>스낵시장의 트렌드와 소비자 요구 |
+<table>
+  <tr>
+    <td>
+      <a href="SQL포트폴리오.pdf">
+        <img src="portfoilo1.png" style="width:300px;" alt="SQL 포트폴리오">
+      </a>
+      <br><b>Project 1</b><br>택배 물류량과 사회적 요인 간의 관계 분석
+    </td>
+    <td>
+      <a href="파이썬포트폴리오.pdf">
+        <img src="portfoilo2.png" style="width:300px;" alt="파이썬 데이터 분석 포트폴리오">
+      </a>
+      <br><b>Project 2</b><br>스낵시장의 트렌드와 소비자 요구
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <a href="파이썬딥러닝포트폴리오.pdf">
+        <img src="portfoilo2.png" style="width:300px;" alt="파이썬 딥러닝 포트폴리오">
+      </a>
+      <br><b>Project 3</b><br>Short description for project 3
+    </td>
+  </tr>
+</table>
 
-| <img src="portfoilo2.png" alt="파이썬 딥러닝 포트폴리오" style="width: 200px;"> |
-|:---------------------------------------:|
-| **Project 3**<br>Short description for project 3 |
 
 ## Additional Resources
 
